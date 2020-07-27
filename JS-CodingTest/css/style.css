@@ -1,0 +1,15 @@
+ .form-control{
+    
+    text-align: center;
+    width: 90%;
+} 
+input:invalid{
+ border: 2px solid red;
+}
+.btn{
+   width: 430px;
+   margin-right: 35px;
+}
+input:valid{
+    border: 2px solid green;
+   }
